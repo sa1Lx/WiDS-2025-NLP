@@ -1,0 +1,8 @@
+tensorflow
+datasets
+nltk
+spacy
+scikit-learn
+numpy
+# spaCy small English model
+en-core-web-sm
