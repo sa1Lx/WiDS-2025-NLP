@@ -1,0 +1,7 @@
+tensorflow
+datasets
+gensim
+nltk
+scikit-learn
+numpy
+matplotlib
