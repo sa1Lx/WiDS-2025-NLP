@@ -1,4 +1,4 @@
-## Week 3 Report – Transformers & Tokenizers
+## Week 3 Report: Transformers & Tokenizers
 
 ### Goals
 - Understand transformer basics (self-attention, encoder/decoder families).

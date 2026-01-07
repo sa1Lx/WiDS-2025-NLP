@@ -1,4 +1,4 @@
-## Week 2 Report – Embeddings & RNNs
+## Week 2 Report: Embeddings & RNNs
 
 ### Goals
 - Try word embeddings (Word2Vec, GloVe) and visualize them.

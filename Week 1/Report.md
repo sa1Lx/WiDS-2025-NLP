@@ -1,4 +1,4 @@
-## Week 1 Report – NLP Foundations
+## Week 1 Report: NLP Foundations
 
 ### Goals
 - Learn basic text preprocessing: tokenization, stemming/lemmatization ideas, stopword removal, n-grams.
